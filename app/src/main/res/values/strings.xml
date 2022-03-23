@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwilioEmailAuthentication</string>
+    <string name="send_code">Send Code</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_code_here">Enter code here</string>
+    <string name="verify">Verify</string>
+    <string name="verified">Verified</string>
+    <string name="not_verified">Not Verified</string>
+</resources>
